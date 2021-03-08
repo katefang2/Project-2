@@ -1,0 +1,59 @@
+#container{
+    
+    cursor: url('img/water.png'), auto;	
+
+   
+   } 
+
+   h1 {
+       position : relative;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       top: 30px;
+       color: whitesmoke;
+   }
+
+
+
+   body {
+    background: #66deb0;
+    text-align: center;
+     cursor: url('img/water.png'), auto; 
+   }
+
+
+/* #demo{
+    align-self: center;
+    left:500px;
+} */
+
+
+ 
+    
+   
+
+
+/* #p1s1{
+    position:relative;
+    left: 200px;
+    
+}
+#p2s1{
+    align-self: center;
+    z-index: 1px ;
+    
+}
+#p3s1{
+    align-self: center;
+    z-index: 5px ;
+    left: 200px;
+}
+#p4s1{
+    align-self: center;
+    z-index: 3px ;
+    left: 200px;
+}
+#p5s1{
+    align-self: center;
+    z-index: 2px ;
+    left: 200px;
+} */
